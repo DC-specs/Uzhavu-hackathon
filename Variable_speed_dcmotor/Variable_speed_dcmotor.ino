@@ -26,5 +26,5 @@ void loop() {
   Serial.print(" | Motor Speed (PWM): ");
   Serial.println(motorSpeed);
 
-  delay(100);  // Small delay for stability
+  delay(100); 
 }
